@@ -34,7 +34,7 @@ Non-custodial ERC721 escrow contract for explorills_Nodes tokens with read-only 
 * Networks: [Ethereum](https://ethereum.org/en/); [Flare](https://flare.network/)
 
 ## Contract Architecture
-
+```
 explorills_NodeEscrow
 ├── View Functions
 │   ├── Address Holdings
@@ -51,7 +51,7 @@ explorills_NodeEscrow
     │   └── MAX_SUPPLY
     └── Contract References
         └── NODE_MAIN_CONTRACT
-
+```
 ## License
 
 BSD-3-Clause License
