@@ -71,7 +71,7 @@ BSD-3-Clause License
 
 ## Main Contract Integration
 
-* Main Contract: 0x468F1F91fc674e0161533363B13c2ccBE3769981
+- 0x468F1F91fc674e0161533363B13c2ccBE3769981
 * Github: [explorills/nodes](https://github.com/explorills/nodes) 
 
 ---
