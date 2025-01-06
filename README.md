@@ -1,6 +1,6 @@
 # explorills_NodeEscrow Contract
 
-Non-custodial ERC721 escrow contract for explorills_Nodes tokens with read-only functionality and main contract interaction.
+Non-custodial ERC721 escrow contract for explorills_Nodes tokens storage that opens pulling window through main contract after initial 10,800 mints.
 
 ## General Functionality
 
