@@ -1,6 +1,6 @@
 # explorills_NodeEscrow Contract
 
-Non-custodial ERC721 escrow contract for explorills_Nodes tokens storage, with auto-release functionality.
+Non-custodial ERC721 escrow contract for explorills_Nodes tokens storage, with auto-release functionality
 
 ## General Functionality
 
