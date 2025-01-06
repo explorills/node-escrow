@@ -68,6 +68,7 @@ BSD-3-Clause License
 ### find at
 - [Etherscan.io](https://etherscan.io/address/0x9eAEc5DB08E0D243d07A82b8DD54Cc70E745f8b4#code)
 - [Flare-explorer](https://flare-explorer.flare.network/address/0x9eAEc5DB08E0D243d07A82b8DD54Cc70E745f8b4?tab=contract)
+- [sourcify.dev](https://sourcify.dev/#/lookup/0x9eAEc5DB08E0D243d07A82b8DD54Cc70E745f8b4)
 
 ## Main Contract Integration
 
